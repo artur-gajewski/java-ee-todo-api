@@ -42,7 +42,7 @@
                 <artifactId>tomee-maven-plugin</artifactId>
                 <version>7.0.5</version>
                 <configuration>
-                    <context>todos</context>
+                    <context>todo</context>
                     <tomeeClassifier>plus</tomeeClassifier>
                     <tomeeHttpPort>8001</tomeeHttpPort>
                     <tomeeShutdownPort>8005</tomeeShutdownPort>
